@@ -1,73 +1,73 @@
-# Course Material and FAQ for my Complete JavaScript Course
+# مواد الدورة التدريبية والأسئلة الشائعة لدورة جافاسكريبت الشاملة
 
-This branch of the repo contains starter files and final code for all sections and projects of the course, **exactly as shown in the videos**.
+يحتوي هذا الفرع من المستودع على الملفات الأولية (starter files) والكود النهائي لجميع أقسام ومشاريع الدورة، **تماماً كما هو موضح في مقاطع الفيديو**.
 
-Use starter code to start each section, and **final code to compare it with your own code whenever something doesn't work**!
+استخدم الكود الأولي لبدء كل قسم، و**الكود النهائي لمقارنته مع الكود الخاص بك كلما واجهت مشكلة ولم يعمل شيء ما لديك**!
 
-There is also a the [updates-and-fixes](https://github.com/jonasschmedtmann/complete-javascript-course/tree/updates-and-fixes) branch which is kept up-to-date with **latest package updates and important bugfixes 🐛**
+يوجد أيضاً فرع [updates-and-fixes](https://github.com/jonasschmedtmann/complete-javascript-course/tree/updates-and-fixes) الذي يتم تحديثه باستمرار بأحدث **تحديثات الحزم البرمجية وإصلاحات الأخطاء المهمة 🐛**.
 
-🚨 **_Please read the following Frequently Asked Questions (FAQ) carefully before starting the course_** 🚨
+🚨 ***يرجى قراءة الأسئلة الشائعة (FAQ) التالية بعناية قبل البدء في الدورة*** 🚨
 
-## FAQ
+## الأسئلة الشائعة
 
-### Q1: How do I download the files?
+### س1: كيف أقوم بتنزيل الملفات؟
 
-**A:** If you're new to GitHub and just want to download the entire code, hit the green button saying "Code", and then choose the "Download ZIP" option. If you can't see the button (on mobile), use [this link](https://github.com/jonasschmedtmann/complete-javascript-course/archive/master.zip) instead.
+**ج:** إذا كنت جديداً على منصة GitHub وتريد فقط تنزيل الكود بالكامل، اضغط على الزر الأخضر المكتوب عليه "Code"، ثم اختر خيار "Download ZIP". وإذا لم تتمكن من رؤية الزر (على الهاتف المحمول)، فاستخدم [هذا الرابط](https://github.com/jonasschmedtmann/complete-javascript-course/archive/master.zip) بدلاً من ذلك.
 
-### Q2: I'm stuck! Where do I get help?
+### س2: واجهت مشكلة وتوقفت! أين أجد المساعدة؟
 
-**A:** Have you actually tried to fix the problem on your own? **Have you compared your code to the final code?** If you failed fixing your problem, please **post a detailed description of the problem to the Q&A area of that video over at Udemy**, along with a [codepen](https://codepen.io/pen/) containing your code. You will get help there. Please don't send me a personal message or email to fix coding problems.
+**ج:** هل حاولت بالفعل حل المشكلة بنفسك؟ **وهل قارنت الكود الخاص بك بالكود النهائي؟** إذا لم تتمكن من حل المشكلة، فيرجى **نشر وصف مفصل للمشكلة في قسم الأسئلة والأجوبة (Q&A) الخاص بذلك الفيديو على منصة Udemy**، مع إرفاق رابط من [codepen](https://codepen.io/pen/) يحتوي على الكود الخاص بك. ستتلقى المساعدة هناك. يرجى عدم إرسال رسالة خاصة أو بريد إلكتروني لي لمساعدتك في حل المشاكل البرمجية.
 
-### Q3: What VSCode theme are you using?
+### س3: ما هو مظهر (ثيم) VSCode الذي تستخدمه؟
 
-**A:** I use Monokai Pro for all my coding and course production. It's a paid theme (I', **not** affiliated with them), but you can actually use the free demo version forever 😅
+**ج:** أستخدم Monokai Pro في كتابة جميع الأكواد وإنتاج الدورات التدريبية. إنه ثيم مدفوع (أنا **لست** تابعاً لهم أو مروجاً لمنتجهم)، ولكن يمكنك في الواقع استخدام النسخة التجريبية المجانية إلى الأبد 😅.
 
-### Q4: Can I see a final version of the course projects?
+### س4: هل يمكنني مشاهدة نسخة نهائية من مشاريع الدورة؟
 
-**A:** Sure! Here you go:
+**ج:** بالتأكيد! تفضل الروابط:
 
-- [Pig Game](https://pig-game-v2.netlify.app) (DOM Manipulation)
-- [Bankist](https://bankist.netlify.app/) (Arrays, Numbers, Dates, Timers. Fake "log in" with user `js` and PIN `1111`)
-- [Bankist Site](https://bankist-dom.netlify.app/) (Advanced DOM and Events)
-- [Mapty](https://mapty.netlify.app/) (OOP, Geolocation, Project planning)
-- [forkify](https://forkify-v2.jonas.io/) (Final advanced project)
+* [Pig Game](https://pig-game-v2.netlify.app) (التعامل مع الـ DOM)
+* [Bankist](https://bankist.netlify.app/) (المصفوفات، الأرقام، التواريخ، والمؤقتات. تسجيل دخول تجريبي باسم مستخدم `js` ورمز PIN `1111`)
+* [Bankist Site](https://bankist-dom.netlify.app/) (الـ DOM المتقدم والأحداث)
+* [Mapty](https://mapty.netlify.app/) (البرمجة كائنية التوجه OOP، تحديد الموقع الجغرافي، وتخطيط المشاريع)
+* [forkify](https://forkify-v2.jonas.io/) (المشروع المتقدم النهائي)
 
-### Q5: Videos don't load, can you fix it?
+### س5: مقاطع الفيديو لا تعمل، هل يمكنك إصلاح ذلك؟
 
-**A:** Unfortunately, there is nothing I can do about it. The course is hosted on Udemy, and sometimes they have technical issues like this. Please just come back a bit later or [contact their support team](https://support.udemy.com/hc/en-us).
+**ج:** للأسف، لا حيلة لي في ذلك. الدورة مستضافة على منصة Udemy، وأحياناً تظهر لديهم مشاكل تقنية من هذا النوع. يرجى العودة والمحاولة بعد قليل أو [التواصل مع فريق دعم Udemy](https://support.udemy.com/hc/en-us).
 
-### Q6: Videos are blurred / have low quality, can you fix it?
+### س6: مقاطع الفيديو مشوشة / ذات جودة منخفضة، هل يمكنك حل المشكلة؟
 
-**A:** Please open video settings and change the quality from 'Auto' to another value, for example 720p. If that doesn't help, please [contact the Udemy support team](https://support.udemy.com/hc/en-us).
+**ج:** يرجى فتح إعدادات الفيديو وتغيير الجودة من 'تلقائي' (Auto) إلى قيمة أخرى، مثل 720p على سبيل المثال. إذا لم يفلح ذلك، فيرجى [التواصل مع فريق دعم Udemy](https://support.udemy.com/hc/en-us).
 
-### Q7: Are the videos downloadable?
+### س7: هل يمكن تنزيل مقاطع الفيديو؟
 
-**A:** Videos used to be downloadable, but unfortunately, Udemy has disabled video downloads on all my courses in order to fight piracy. There is nothing I can do about this.
+**ج:** كانت الفيديوهات قابلة للتنزيل سابقاً، ولكن للأسف قامت Udemy بتعطيل تنزيل الفيديوهات في جميع دوراتي لمكافحة القرصنة، ولا أملك أي خيار لتغيير ذلك.
 
-### Q8: I want to put these projects in my portfolio. Is that allowed?
+### س8: أرغب في إضافة هذه المشاريع إلى معرض أعمالي (Portfolio)، هل هذا مسموح؟
 
-**A:** Absolutely! Just make sure you actually built them yourself by following the course, and that you understand what you did. What is **not allowed** is that you create your own course/videos/articles based on this course's content!
+**ج:** بالتأكيد! فقط تأكد من أنك قمت ببنائها وكتابة كودها بنفسك عبر متابعة الدورة التدريبية، وأنك تفهم ما قمت به. الشيء **غير المسموح به** هو أن تنشئ دورتك التدريبية الخاصة أو مقاطع فيديو أو مقالات بالاعتماد على محتوى هذه الدورة!
 
-### Q9: You mentioned your resources page. Where can I find it?
+### س9: ذكرت صفحة الموارد الخاصة بك، أين أجدها؟
 
-**A:** It's on my website at <http://codingheroes.io/resources>. You can subscribe for updates 😉
+**ج:** تجدها على موقعي عبر الرابط: [codingheroes.io/resources](http://codingheroes.io/resources)، ويمكنك الاشتراك هناك للحصول على التحديثات 😉.
 
-### Q10: I love your courses and want to get updates on new courses. How?
+### س10: تعجبني دوراتك وأريد متابعة جديدها، كيف يمكنني ذلك؟
 
-**A:** First, you can subscribe to my email list [at my website](http://codingheroes.io/resources). Plus, I make important announcements on twitter [@jonasschmedtman](https://twitter.com/jonasschmedtman), so you should definitely follow me there 🔥
+**ج:** أولاً، يمكنك الاشتراك في قائمتي البريدية عبر [موقعي الإلكتروني](http://codingheroes.io/resources). بالإضافة إلى ذلك، أعلن عن المستجدات المهمة على تويتر عبر الحساب [@jonasschmedtman](https://twitter.com/jonasschmedtman)، لذا من الرائع متابعتي هناك 🔥.
 
-### Q11: How do I get my certificate of completion?
+### س11: كيف أحصل على شهادة إتمام الدورة؟
 
-**A:** A certificate of completion is provided by Udemy after you complete 100% of the course. After completing the course, just click on the "Your progress" indicator in the top right-hand corner of the course page. If you want to change your name on the certificate, please [contact the Udemy support team](https://support.udemy.com/hc/en-us).
+**ج:** تقدم منصة Udemy شهادة إتمام بعد إنهاء الدورة بنسبة 100%. بمجرد إكمالها، اضغط ببساطة على مؤشر "تقدمك" (Your progress) في الزاوية العلوية اليمنى من صفحة الدورة. وإذا أردت تعديل اسمك في الشهادة، يرجى [التواصل مع فريق دعم Udemy](https://support.udemy.com/hc/en-us).
 
-### Q12: Can you add subtitles in my language?
+### س12: هل يمكنك إضافة ترجمة نصية بلغتي؟
 
-**A:** No. I provide professional English captions, but Udemy is responsible for subtitles in all other languages (automatic translations). So please [contact the Udemy support team](https://support.udemy.com/hc/en-us) to request your own language.
+**ج:** لا، فأنا أقدم ترجمة نصية احترافية باللغة الإنجليزية، بينما تتولى Udemy مسؤولية الترجمة بجميع اللغات الأخرى (ترجمات آلية). لذلك يرجى [التواصل مع فريق دعم Udemy](https://support.udemy.com/hc/en-us) لطلب إتاحة لغتك.
 
-### Q13: Do you accept pull requests?
+### س13: هل تقبل طلبات السحب والتعديل (Pull Requests) على المستودع؟
 
-**A:** No, for the simple reason that I want this repository to contain the _exact_ same code that is shown in the videos. _However, please feel free to add an issue if you found one._
+**ج:** لا، لسبب بسيط وهو أنني أريد أن يحتوي هذا المستودع على *نفس* الكود المعروض في الفيديوهات بالضبط. *ومع ذلك، لا تتردد في فتح بلاغ (Issue) إذا عثرت على أي خطأ برمجياً.*
 
-### Q14: I'm looking for the old course version (v1) files. Where can I find them?
+### س14: أبحث عن ملفات الإصدار القديم من الدورة (v1)، أين أجدها؟
 
-**A:** They are in this same repo, but in the [v1 branch](https://github.com/jonasschmedtmann/complete-javascript-course/tree/v1). So just go to [v1](https://github.com/jonasschmedtmann/complete-javascript-course/tree/v1), and download the code from there.
+**ج:** تجدها في نفس هذا المستودع ولكن داخل [فرع v1](https://github.com/jonasschmedtmann/complete-javascript-course/tree/v1). كل ما عليك هو الانتقال إلى [v1](https://github.com/jonasschmedtmann/complete-javascript-course/tree/v1) وتنزيل الكود من هناك.
